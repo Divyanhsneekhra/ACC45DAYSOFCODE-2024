@@ -22,4 +22,3 @@ int array[10] = {101, 11, 3, 4, 50, 69, 7, 8, 9, 0};
 second); 
  return 0;
 }
-❖ Program 
